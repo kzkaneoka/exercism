@@ -8,4 +8,5 @@ Learn programming languages by [exercism](https://exercism.io/).
 
 ## Perl 5
 
-- [Hello World](./perl5/hello-world)
+- [Hello World](./perl5/hello-world/)
+- [Two Fer](./perl5/two-fer/)
