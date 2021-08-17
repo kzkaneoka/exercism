@@ -10,3 +10,4 @@ Learn programming languages by [exercism](https://exercism.io/).
 
 - [Hello World](./perl5/hello-world/)
 - [Two Fer](./perl5/two-fer/)
+- [Bob](./perl5/bob/)
