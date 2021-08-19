@@ -14,3 +14,4 @@ Learn programming languages by [exercism](https://exercism.io/).
 - [Leap](./perl5/leap/)
 - [Grains](./perl5/grains/)
 - [Raindrops](./perl5/raindrops/)
+- [Hamming](./perl5/hamming)
