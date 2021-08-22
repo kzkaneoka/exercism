@@ -18,3 +18,4 @@ Learn programming languages by [exercism](https://exercism.io/).
 - [ETL](./perl5/etl)
 - [Scrabble Score](./perl5/scrabble-score)
 - [Word Count](./perl5/word-count)
+- [Anagram](./perl5/anagram)
